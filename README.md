@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sam1392000
+- 👋 Hi, I’m Sam Raj AB
 - 👀 I’m interested in Development and solving problems
 - 🌱 I’m currently learning B.tech Information Technology
 - 💞️ I’m looking to collaborate on ...
